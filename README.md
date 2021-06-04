@@ -15,7 +15,7 @@ Myself Rahul Amarwal.I am from Udaipur,Rajasthan. Currently pursuing B.Tech. in 
 <a href="mailto:rahulamarwal418@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rahulamarwal418@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ [See My Projects](https://github.com/ArynKr)
+⭐️ [See My Projects](https://github.com/rahulamarwal)
 
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/rahulamarwal/count.svg) -->
